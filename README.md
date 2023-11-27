@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benito Avila</h1>
 <h3 align="center">I'm a Backend Developer</h3>
 
-- 💬 Ask me about **Elixir, Python, Java, JavaScript**
+- 💬 Ask me about **Elixir, Python, Ruby on Rails**
 
 - 📫 How to reach me **benito.avar@gmail.com**
 
